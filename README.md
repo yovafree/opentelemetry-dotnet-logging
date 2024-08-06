@@ -1,4 +1,3 @@
-```markdown
 # OpenTelemetry en .NET 8 - Logging
 
 Este repositorio contiene el código fuente de los ejemplos utilizados en el artículo **"Parte 2 - OpenTelemetry en .NET 8 - Logging"**.
